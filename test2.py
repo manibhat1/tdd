@@ -1,1 +1,3 @@
 print("Why!")
+
+print("Hello")
