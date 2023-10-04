@@ -1,3 +1,3 @@
-print("Why!")
+print("Why Not!")
 
 print("Hello")
