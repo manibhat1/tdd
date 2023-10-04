@@ -1,1 +1,1 @@
-print("Why Not 2!")
+print("Why!")
